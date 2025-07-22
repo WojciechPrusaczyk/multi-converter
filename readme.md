@@ -86,18 +86,3 @@ All conversions are powered by **ImageMagick** and **FFmpeg**, wrapped with a si
         └── requirements.txt # Backend dependencies
 
 ---
-
-## 🏷 GitHub Tags & About
-
-**About:**  
-*A modern, offline image & video converter with a sleek UI. Built with Flask and React, powered by FFmpeg and ImageMagick.*
-
-**Suggested Tags:**
-
-        converter, image, video, flask, react, ffmpeg, imagemagick, offline-tool, webapp, multikonwerter
-
----
-
-## 📜 License
-
-*(Choose your preferred license — e.g., MIT, GPL, or a restrictive one to block commercial redistribution.)*

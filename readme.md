@@ -7,11 +7,6 @@ All conversions are powered by **ImageMagick** and **FFmpeg**, wrapped with a si
 
 ---
 
-## 🖼 Preview
-*(Add screenshots of the app interface here once you take them)*
-
----
-
 ## 🛠 Tech Stack & Requirements
 
 ![Python](https://img.shields.io/badge/Python%20%5E3.13-yellow?style=for-the-badge&logo=python)  
